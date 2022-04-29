@@ -2,7 +2,6 @@
 - 👀 I’m interested in Physics, Science, Programming, Objectivist Philosophy.
 - 🌱 I’m currently learning and teaching Physics, helping students with research projects and coaching our school's IYPT afterschool team.
 - 💞️ My time is Taipei time.
-- 📫 How to reach me : Email garciar@tas.tw
 
 <!---
 TaipeiGarcia/TaipeiGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
